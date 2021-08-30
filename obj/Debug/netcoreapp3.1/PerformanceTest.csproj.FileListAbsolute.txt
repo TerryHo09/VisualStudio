@@ -1,0 +1,14 @@
+C:\Users\terry.ho\source\repos\PerformanceTest\bin\Debug\netcoreapp3.1\PerformanceTest.exe
+C:\Users\terry.ho\source\repos\PerformanceTest\bin\Debug\netcoreapp3.1\PerformanceTest.deps.json
+C:\Users\terry.ho\source\repos\PerformanceTest\bin\Debug\netcoreapp3.1\PerformanceTest.runtimeconfig.json
+C:\Users\terry.ho\source\repos\PerformanceTest\bin\Debug\netcoreapp3.1\PerformanceTest.runtimeconfig.dev.json
+C:\Users\terry.ho\source\repos\PerformanceTest\bin\Debug\netcoreapp3.1\PerformanceTest.dll
+C:\Users\terry.ho\source\repos\PerformanceTest\bin\Debug\netcoreapp3.1\PerformanceTest.pdb
+C:\Users\terry.ho\source\repos\PerformanceTest\obj\Debug\netcoreapp3.1\PerformanceTest.csproj.AssemblyReference.cache
+C:\Users\terry.ho\source\repos\PerformanceTest\obj\Debug\netcoreapp3.1\PerformanceTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terry.ho\source\repos\PerformanceTest\obj\Debug\netcoreapp3.1\PerformanceTest.AssemblyInfoInputs.cache
+C:\Users\terry.ho\source\repos\PerformanceTest\obj\Debug\netcoreapp3.1\PerformanceTest.AssemblyInfo.cs
+C:\Users\terry.ho\source\repos\PerformanceTest\obj\Debug\netcoreapp3.1\PerformanceTest.csproj.CoreCompileInputs.cache
+C:\Users\terry.ho\source\repos\PerformanceTest\obj\Debug\netcoreapp3.1\PerformanceTest.dll
+C:\Users\terry.ho\source\repos\PerformanceTest\obj\Debug\netcoreapp3.1\PerformanceTest.pdb
+C:\Users\terry.ho\source\repos\PerformanceTest\obj\Debug\netcoreapp3.1\PerformanceTest.genruntimeconfig.cache
